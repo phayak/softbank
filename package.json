@@ -6,12 +6,14 @@
   "scripts": {
     "test": "npm test"
   },
+  "repository": {
     "type": "git",
     "url": "git+https://github.com/phayak/softbank.git"
   },
   "keywords": [
     "software",
     "bank",
+    "wallet"
   ],
   "author": "payak yodsamut",
   "license": "ISC",
