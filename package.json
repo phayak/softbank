@@ -1,0 +1,26 @@
+{
+  "name": "softbank",
+  "version": "1.0.0",
+  "description": "ico market invest excahge",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+    "type": "git",
+    "url": "git+https://github.com/phayak/softbank.git"
+  },
+  "keywords": [
+    "software",
+    "bank",
+  ],
+  "author": "payak yodsamut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phayak/softbank/issues"
+  },
+  "homepage": "https://github.com/phayak/softbank#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  }
+}
